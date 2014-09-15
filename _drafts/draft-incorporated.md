@@ -4,6 +4,7 @@ layout: post
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg
+draft: true
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
@@ -39,7 +40,7 @@ author:
   image: ks.jpg
   
 # Keep it as draft, not published in index.html or feed.xml
-draft: false
+draft: true
 {% endhighlight %}
 
 #### Configurable & Code Snipped Highlighting
